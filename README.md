@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Capstone Project**
 
-- 🌱 I’m currently learning **Open CV, DSA(C++, Python)**
+- 🌱 I’m currently learning **Java Script,DSA(C++)**
 
 - 📫 How to reach me **abhijeetkumar3245@gmail.com**
 
