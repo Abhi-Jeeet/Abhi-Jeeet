@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhijee3261" target="blank"><img src="https://img.shields.io/twitter/follow/abhijee3261?logo=twitter&style=for-the-badge" alt="abhijee3261" /></a> </p>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Java Script,DSA(C++)**
+- 🌱 I’m currently learning **Java Script, DSA(C++)**
 
 - 📫 How to reach me **abhijeetkumar3245@gmail.com**
 
