@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Java Script, DSA(C++)**
+- 🌱 I’m currently learning **Java Script, DSA**
 
 - 📫 How to reach me **abhijeetkumar3245@gmail.com**
 
