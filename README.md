@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-jeeet&show_icons=true&theme=tokyonight&title_color=525dff&text_color=a4d7db&bg_color=000000&locale=en" alt="abhi-jeeet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-jeeet&" alt="abhi-jeeet" /></p>
+
+[![An image of @abhijeeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeeet)](https://holopin.io/@abhijeeet)
