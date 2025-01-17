@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, FullStack Development**
 
-- 📫 How to reach me **abhijeetkumar_2312res11@iitp.ac.in**
+- 📫 How to reach me **abhijeet_2312res11@iitp.ac.in**
 
 - ⚡ Fun fact **It's 21st century**
 
