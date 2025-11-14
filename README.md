@@ -23,19 +23,18 @@ Git · Docker · Postman · VS Code · Amazon Web Service
 
 ## 🏆 Highlights
 - 🔧 Full-stack developer experienced in building production-ready applications  
-- ✈️ Built an **Airline Booking System** with seat-locking + idempotency for conflict-free bookings  
-- 💼 Ex-Full-Stack Developer Intern at **Mythyaverse** (IIT Roorkee startup)  
-- 🧠 Creator of **CareerCatcher** — full-stack job portal with AI Resume Analyzer (Gemini)  
-- 📊 Built **Inkhub Admin Dashboard** integrating Shopify, Pinterest, and DynamoDB  
-- 🔢 Solved **400+ DSA problems** and participated in **22+ programming contests**  
+- ✈️ Former **Software Engineer Intern** @Inkhub, **(Nextjs, Amazon Web Service, Typescript, Docker)**
+- 💼 Former **FullStack Developer Intern** @Mythyaverse, **IIT Roorkee (NextJs, Typescript, Redux, MUI)**
+- 🏅 Open Source Contributor — GSSoC & Hacktoberfest 2024 
+- 🔢 Solved **550+ DSA problems** and participated in **22+ programming contests**  
 - ⚡ Passionate about system design, backend engineering, and building impactful products
 
 ---
 
 ## 📫 Contact
-- **Email:** your.email@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
-- **Portfolio:** https://your-portfolio.example.com
+- 📧 **Email:** [abhijeetkumar3245@gmail.com](mailto:abhijeetkumar3245@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/abhijeetiitp](https://www.linkedin.com/in/abhijeetiitp/)  
+- 🌐 **Portfolio:** [Abhijeet Portfolio](https://abhijeet-personal-portfolio.vercel.app/)  
 
 ---
 
@@ -43,5 +42,6 @@ Git · Docker · Postman · VS Code · Amazon Web Service
 > "Engineering is not just about building — it's about building with purpose, clarity, and scalability."
 
 ---
+
 
 
