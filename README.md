@@ -12,12 +12,12 @@ Currently exploring **Next.js with TypeScript, Supabase, advanced backend concep
 ---
 
 ## 🛠️ Tech Stack
-MERN . CPP . Python . Java . MySql . NextJs . JavaScript . TypeScript
+MERN **.** CPP **.** Python **.** Java **.** MySql **.** NextJs **.** JavaScript **.** TypeScript
 
 ---
 
 ## 🧰 Tools & Workflow
-Git · Docker · Postman · VS Code · Amazon Web Service 
+Git **·** Docker **·** Postman **·** VS Code **·** Amazon Web Service 
 
 ---
 
@@ -42,6 +42,7 @@ Git · Docker · Postman · VS Code · Amazon Web Service
 > "Engineering is not just about building — it's about building with purpose, clarity, and scalability."
 
 ---
+
 
 
 
